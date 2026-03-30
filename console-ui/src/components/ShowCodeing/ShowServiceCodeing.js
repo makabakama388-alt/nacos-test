@@ -259,7 +259,7 @@ public class DiscoveryController {
 * application.properties
 server.port=18080
 spring.application.name=${this.record.name}
-spring.cloud.nacos.discovery.server-addr=127.0.0.1:8848
+spring.cloud.nacos.discovery.server-addr=127.0.0.1:8849
 */
 
 // Refer to document: https://github.com/nacos-group/nacos-examples/tree/master/nacos-spring-cloud-example/nacos-spring-cloud-discovery-example/nacos-spring-cloud-provider-example/src/main/java/com/alibaba/nacos/example/spring/cloud
